@@ -1,7 +1,8 @@
 docker-compose build
-
 docker-compose up -d
 
+or 
+docker-compose up --build 
 
 # Access the app
 
